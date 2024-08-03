@@ -67,6 +67,6 @@
   },
   "devDependencies": {
     "@types/uuid": "^9.0.2",
-    "prisma": "^5.17.0"
+    "prisma": "^5.1.1"
   }
 }
